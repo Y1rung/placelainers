@@ -1,1 +1,25 @@
-Lets all love Lain
+{
+  "faction": "Lain",
+  "contact": "https://discord.gg/Hub6DXsfCH",
+  "templates": [
+    {
+      "name": "Lain Art 1",
+      "sources": ["https://cdn.discordapp.com/attachments/1132013033271607403/1132242937376415814/image.png"],
+      "x": 1175,
+      "y": 475
+    }
+    {
+      "name": "Lain Art 2",
+      "sources": ["https://cdn.discordapp.com/attachments/1132252589036154942/1132262203970555975/image.png"],
+      "x": 1168,
+      "y": 475
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "/r/EightySix",
+      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/86Place.json"
+    }
+  ],
+  "blacklist": []
+}
