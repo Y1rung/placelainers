@@ -5,15 +5,10 @@
     {
       "name": "Lain Art 2",
       "sources": ["https://cdn.discordapp.com/attachments/1132252589036154942/1132262203970555975/image.png"],
-      "x": 1175,
-      "y": 475
+      "x": 0,
+      "y": 0
     }
   ],
-  "whitelist": [
-    {
-      "name": "/r/EightySix",
-      "url": "https://raw.githubusercontent.com/Celarye/r-place-alliance/master/templates/86Place.json"
-    }
-  ],
+  "whitelist": [],
   "blacklist": []
 }
